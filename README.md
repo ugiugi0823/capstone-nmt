@@ -5,8 +5,6 @@ Most open sources have unnecessarily too complicated structures, because they ha
 I believe that this repo has minimal features to build NMT system.
 Therefore, I hope that this repo can be a good start for people who doesn't want unnecessarily many features.
 
-Also, this repo is for [lecture](https://www.fastcampus.co.kr/data_camp_nlpadv/) and [book](https://kh-kim.gitbook.io/natural-language-processing-with-pytorch/), what I conduct.
-Please, refer those sites for further information.
 
 ## Features
 
