@@ -64,11 +64,10 @@ This repo provides many features, and many of those codes were written from scra
 
 ## Requirements
 
-- Python 3.6 or higher
-- PyTorch 1.6 or higher
-- TorchText 0.5 or higher
-- PyTorch Ignite
-- [torch-optimizer 0.0.1a15](https://pypi.org/project/torch-optimizer/)
+- torchtext==0.5.0
+- torch==1.6.0
+- torch_optimizer
+- pytorch-ignite
 
 ## Evaluation
 
